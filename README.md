@@ -7,3 +7,11 @@ Trying to condense the madness and structure the unstructurable
 /.config/Epic/FactoryGame/Saved/SaveGames/blueprints/Springfield Nuclear Power Plant
 ````
 
+### Windows
+
+````
+C:\Users\user\AppData\Local\FactoryGame\Saved\SaveGames\blueprints\Buildermodetest
+````
+````
+%AppData%
+````
