@@ -1,17 +1,25 @@
 # satisfactory
 Trying to condense the madness and structure the unstructurable
 
+# Linux
 
-### Blueprints reside in 
+## Blueprints
 ````
 /.config/Epic/FactoryGame/Saved/SaveGames/blueprints/Springfield Nuclear Power Plant
 ````
 
-### Windows
+# Windows
 
+## Blueprints
 ````
 C:\Users\user\AppData\Local\FactoryGame\Saved\SaveGames\blueprints\Buildermodetest
 ````
+reach it via 
 ````
-%AppData%
+%AppData%\..\Local\FactoryGame\Saved\SaveGames\blueprints
 ````
+## Savegames
+````
+%AppData%\..\Local\FactoryGame\Saved\SaveGames
+````
+
